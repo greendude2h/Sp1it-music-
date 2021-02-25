@@ -2,7 +2,6 @@
 This template created by Claudette, all right reserved.
 
 # Links;
-Add My Bot: <a href="https://discord.com/api/oauth2/authorize?client_id=779641401482805289&permissions=8&redirect_uri=https%3A%2F%2Fdiscord.gg%2FTtBHVkCkcH&scope=bot">Click Here</a><br>
 Email: claudette@voiddevs.org<br>
 Demo: https://iclaudette.github.io/discord-bot-website/<br>
 Void Development: <a href="https://voiddevs.org">Click Here</a><br>
